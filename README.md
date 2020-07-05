@@ -11,5 +11,5 @@ Rank : 74
 <br /> 
 Test Accuracy : 0.8110
 
-##Links
+## Links
 Competition : [Competition](https://www.kaggle.com/c/shopee-product-detection-student/overview).
