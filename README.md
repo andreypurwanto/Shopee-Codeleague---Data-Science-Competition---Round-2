@@ -10,3 +10,6 @@ We use 4 pre trained model by tensorflow (Inception ResnetV2, NesNetLarge, Effic
 Rank : 74
 <br /> 
 Test Accuracy : 0.8110
+
+##Links
+Competition : [Competition](https://www.kaggle.com/c/shopee-product-detection-student/overview).
