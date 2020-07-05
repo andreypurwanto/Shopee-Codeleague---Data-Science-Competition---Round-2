@@ -8,4 +8,4 @@ We are using 4 trained model by tensorflow (Inception ResnetV2, NesNetLarge, Eff
 
 ## Final Submission
 Rank : 74
-Test Accuracy : 0.8110
+/n Test Accuracy : 0.8110
